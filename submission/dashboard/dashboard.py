@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 sns.set(style='white')
 
-day_data = pd.read_csv("day.csv") 
+day_data = pd.read_csv("submission/dashboard/day.csv")
 day_data.head()
 
 
